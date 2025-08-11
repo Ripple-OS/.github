@@ -53,7 +53,7 @@ A detailed roadmap will be published soon.
 
 ## 📜 License
 
-Ripple OS is released under the [MIT License](LICENSE).
+Ripple OS is released under the [MIT License](../LICENSE).
 
 ---
 
