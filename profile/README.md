@@ -1,4 +1,7 @@
 # Ripple OS 🌊
+<img width="1536" height="1024" alt="os-wallpaper-1" src="https://github.com/user-attachments/assets/b6729fe7-2fda-4baf-9ddd-5cdcbfcb0b65" />
+
+
 
 ### Where Fluidity Meets Functionality. Experience the gentle wave of modern computing.
 
